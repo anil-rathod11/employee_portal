@@ -1,0 +1,10 @@
+development:
+  :concurrency: 1
+production:
+  :concurrency: 1
+:queues:
+  - default
+  - mailers
+
+  - appraisal_portal_default
+  - appraisal_portal_mailers

@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee: one
+  title: MyString
+  description: MyText
+  start_time: 2023-02-02 17:22:30
+  end_time: 2023-02-02 17:22:30
+  status: MyString
+  archive: false
+  organized_for: MyString
+  project: one
+
+two:
+  employee: two
+  title: MyString
+  description: MyText
+  start_time: 2023-02-02 17:22:30
+  end_time: 2023-02-02 17:22:30
+  status: MyString
+  archive: false
+  organized_for: MyString
+  project: two

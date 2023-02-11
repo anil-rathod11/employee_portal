@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee: one
+  resignation_reason: MyText
+
+two:
+  employee: two
+  resignation_reason: MyText

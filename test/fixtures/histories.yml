@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  year: 1
+  quarter: MyString
+  summary: MyString
+  event: MyString
+  employee: one
+  associated_manager: MyString
+
+two:
+  year: 1
+  quarter: MyString
+  summary: MyString
+  event: MyString
+  employee: two
+  associated_manager: MyString

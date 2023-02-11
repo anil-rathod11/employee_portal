@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  annual_summary: one
+  accumplishment_by_reviewer: MyText
+  development_need_by_reviewer: MyText
+  career_goals_by_reviewer: MyText
+  employee: one
+  designation: MyString
+  rating: MyString
+
+two:
+  annual_summary: two
+  accumplishment_by_reviewer: MyText
+  development_need_by_reviewer: MyText
+  career_goals_by_reviewer: MyText
+  employee: two
+  designation: MyString
+  rating: MyString

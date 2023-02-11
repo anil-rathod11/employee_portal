@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee: one
+  PAN_no: MyString
+  UAN_no: MyString
+  bank_ac_no: MyString
+  bank_name: MyString
+  IFSC_code: MyString
+  branch_name: MyString
+
+two:
+  employee: two
+  PAN_no: MyString
+  UAN_no: MyString
+  bank_ac_no: MyString
+  bank_name: MyString
+  IFSC_code: MyString
+  branch_name: MyString

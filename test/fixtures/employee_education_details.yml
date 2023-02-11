@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee: one
+  degree: MyString
+  year: 1
+  college_name: MyString
+  university_name: MyString
+
+two:
+  employee: two
+  degree: MyString
+  year: 1
+  college_name: MyString
+  university_name: MyString

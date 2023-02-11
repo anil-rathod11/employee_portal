@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  team_size: 1
+  team_member: MyText
+  employee: one
+  additional_requirement: MyText
+
+two:
+  name: MyString
+  description: MyText
+  team_size: 1
+  team_member: MyText
+  employee: two
+  additional_requirement: MyText

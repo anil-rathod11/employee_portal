@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  quaterly_appraisal: one
+  accumplishment_by_reviewer: MyString
+  employee: one
+  designation: MyString
+  rating: MyString
+
+two:
+  quaterly_appraisal: two
+  accumplishment_by_reviewer: MyString
+  employee: two
+  designation: MyString
+  rating: MyString
